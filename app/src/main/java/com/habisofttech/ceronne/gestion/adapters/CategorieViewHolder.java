@@ -7,9 +7,7 @@ import android.widget.TextView;
 
 import com.habisofttech.ceronne.gestion.R;
 
-/**
- * Created by setico on 3/14/17.
- */
+
 
 public class CategorieViewHolder extends RecyclerView.ViewHolder {
 

@@ -1,8 +1,6 @@
 package com.habisofttech.ceronne.gestion.models;
 
-/**
- * Created by setico on 3/13/17.
- */
+
 
 public class Depense {
     private Long id;

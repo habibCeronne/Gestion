@@ -11,9 +11,7 @@ import com.habisofttech.ceronne.gestion.models.Depense;
 
 import java.util.ArrayList;
 
-/**
- * Created by setico on 3/13/17.
- */
+
 
 public class DepenseDao extends DbHelper {
 

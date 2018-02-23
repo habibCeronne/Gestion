@@ -2,9 +2,6 @@ package com.habisofttech.ceronne.gestion.models;
 
 import com.habisofttech.ceronne.gestion.contracts.DepenseContract;
 
-/**
- * Created by setico on 3/13/17.
- */
 
 public class Categorie {
     private Long id;

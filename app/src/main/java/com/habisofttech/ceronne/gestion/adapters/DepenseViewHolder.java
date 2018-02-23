@@ -6,9 +6,7 @@ import android.widget.TextView;
 
 import com.habisofttech.ceronne.gestion.R;
 
-/**
- * Created by setico on 3/18/17.
- */
+
 
 public class DepenseViewHolder extends RecyclerView.ViewHolder {
     public View view;

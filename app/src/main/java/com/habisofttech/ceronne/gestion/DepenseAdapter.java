@@ -11,9 +11,7 @@ import com.habisofttech.ceronne.gestion.models.Depense;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 
-/**
- * Created by setico on 3/18/17.
- */
+
 
 public class DepenseAdapter extends RecyclerView.Adapter<DepenseViewHolder> {
     private ArrayList<Depense> depenses;

@@ -8,9 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import com.habisofttech.ceronne.gestion.contracts.DepenseContract;
 import com.habisofttech.ceronne.gestion.models.Depense;
 
-/**
- * Created by setico on 3/13/17.
- */
+
 
 public class DbHelper extends SQLiteOpenHelper {
 

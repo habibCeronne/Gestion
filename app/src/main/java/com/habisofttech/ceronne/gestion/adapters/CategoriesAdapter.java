@@ -17,9 +17,7 @@ import com.habisofttech.ceronne.gestion.models.Categorie;
 
 import java.util.ArrayList;
 
-/**
- * Created by setico on 3/14/17.
- */
+
 
 public class CategoriesAdapter extends RecyclerView.Adapter<CategorieViewHolder> {
     ArrayList<Categorie> categories;

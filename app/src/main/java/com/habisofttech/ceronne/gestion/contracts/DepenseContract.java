@@ -2,9 +2,7 @@ package com.habisofttech.ceronne.gestion.contracts;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by setico on 3/13/17.
- */
+
 
 public class DepenseContract {
 
